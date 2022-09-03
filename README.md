@@ -1,9 +1,10 @@
-## Oi, eu sou o Rafael Reis
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=210&section=header&text=Rafael%20Reis&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
-<div>
+
+<div align="center">
   <a href="https://github.com/devRafaReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrafareis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafareis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devrafareis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafareis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
