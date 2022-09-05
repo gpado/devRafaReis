@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=210&section=header&text=Rafael%20Reis&fontSize=30&fontColor=f7f5f5&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:44c3e3,50:501df2,100:cc2140&height=210&section=header&text=Rafael%20Reis&fontSize=30&fontColor=f7f5f5&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
 
 <div align="center">
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
 ##
@@ -27,6 +28,7 @@
 <div> 
   <a href="https://instagram.com/rafareisxxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-reis-7343a120b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://port-rafael-reis.vercel.app" target="_blank"><img align="right" src="https://badgen.net/badge/icon/portifolio?icon=vercel&label" target="_blank"></a> 
 </div>
 
 ##
