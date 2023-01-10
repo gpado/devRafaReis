@@ -30,3 +30,7 @@
 ##
 
 ![Snake animation](https://github.com/devrafareis/devrafareis/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+<img height="120em" src="https://github-profile-trophy.vercel.app/?username=devRafaReis&row=1)](https://github.com/devRafaReis/github-profile-trophy"/>
